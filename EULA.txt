@@ -1,0 +1,28 @@
+This agreement is about using this software, which includes some parts that are open-source and some that are public domain. By using the software, you agree to follow the rules in this agreement. If you don't agree, don't use the software.
+
+Definitions:
+
+- Software: This means the computer program, code, and any documents that come with it.
+- Open-Source Software: Some parts of this software are open-source. That means they have their own rules for using them.
+- Public Domain Software: Some parts of this software don't have any special rules. You can use them freely.
+
+What You Can Do:
+
+- For open-source parts, you need to follow their rules. Each open-source part has its own set of rules.
+- For public domain parts, you can use, change, and share them as long as it's legal.
+
+What You Can't Do:
+
+- Don't remove or hide any copyright or trademark notices.
+- Don't use the software for bad or illegal things.
+
+No Promises:
+
+- For open-source parts, we can't promise they'll work perfectly. You use them at your own risk.
+- For public domain parts, we don't make any promises at all.
+
+Limits on Our Responsibility:
+
+- If something goes wrong when you use the software, we're not responsible for any indirect, small, or big problems it causes.
+
+By using the software, you agree to follow these rules. If you don't want to follow the rules, don't use the software.
