@@ -1,4 +1,6 @@
 build/*
 dist/*
+ncrar-abr-build/
 *.swp
 *.pyc
+*.exe

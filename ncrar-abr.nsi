@@ -1,5 +1,4 @@
-; Can change to "${version}" to get -D passed in
-!define version "1.0.1"
+;!define version "1.0.1" use /D if possible to pass in version info.
 !include nsDialogs.nsh
 !include MUI2.nsh
 
@@ -17,8 +16,6 @@ Var /global key
 
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_LICENSE "EULA.txt"
-;!insertmacro MULTIUSER_PAGE_INSTALLMODE
-;!insertmacro MUI_PAGE_STARTMENU "NCRAR ABR" $start_menu_folder !insertmacro MUI_PAGE_INSTFILES
 !insertmacro MUI_PAGE_INSTFILES
 !insertmacro MUI_PAGE_FINISH
 !insertmacro MUI_LANGUAGE "English"
