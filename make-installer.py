@@ -7,12 +7,6 @@ import subprocess
 import tempfile
 import venv
 
-SCRIPT_TEMPLATE = '''\
-#!${venv_executable}
-
-import requests
-print(requests)
-'''
 
 makensis_exe = "c:/progra~2/NSIS/Bin/makensis.exe"
 
